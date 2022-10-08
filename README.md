@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://linkedin.com/in/elmatbai-saad/">EL MATBAI Saad</a> </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://linkedin.com/in/elmatbai-saad/">EL MAMOUNI SALAH EDDINE</a> </h1>
 
 <h3 align="center">Computer science student at Haute Alsace University.</h3>
 
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently in my 4th year at Haute Alsace University
 
-- 📫 How to reach me ==>  **elmatbaisaad@gmail.com**
+- 📫 How to reach me ==>  **salaheddineelmamouni20@gmail.com**
 
 <br>
 
@@ -26,11 +26,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/elmatbai-saad/" target="_blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="EL Matbai Saad" /></a>
+      alt="EL MAMOUNI SALAH EDDINE" /></a>
 
  <a href="mailto:elmatbaisaad@gmail.com" target="_blank"><img align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="elmatbaisaad" /></a>
+      alt="EL MAMOUNI SALAH EDDINE" /></a>
 </p>
 
 <br>
