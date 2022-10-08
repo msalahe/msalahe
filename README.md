@@ -24,7 +24,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/elmatbai-saad/" target="_blank"><img align="center"
+  <a href="https://ma.linkedin.com/in/salah-eddine-el-mamouni-534259192" target="_blank"><img align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="EL MAMOUNI SALAH EDDINE" /></a>
 
