@@ -15,7 +15,7 @@
 <p><img align="right" src="animation_500_kxa883sd.gif" alt="elmatbaisaad" /></p>
 
 
-- 🌱 I’m currently in my 4th year at Haute Alsace University
+
 
 - 📫 How to reach me ==>  **salaheddineelmamouni20@gmail.com**
 
